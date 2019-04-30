@@ -1,4 +1,0 @@
----
-fixes:
-  - |
-    Mounts /run into chroot when installing grub to prevent timeouts.

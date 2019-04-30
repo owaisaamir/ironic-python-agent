@@ -1,5 +1,0 @@
----
-features:
-  - |
-    Allows image checksum to be a URL pointing at a file with the image
-    checksum or several checksums.

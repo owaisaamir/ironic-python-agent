@@ -1,5 +1,0 @@
----
-features:
-  - |
-    Discover IPv6 BMC address and store it in "bmc_v6address"
-    field of hardware inventory sent back to inspector.
