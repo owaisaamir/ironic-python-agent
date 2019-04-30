@@ -567,7 +567,7 @@ class StandbyExtension(base.BaseAgentExtension):
             else:
                 self._cache_and_write_image(image_info, device)
 
-        _validate_partitioning(device)
+        # _validate_partitioning(device)
 
         # the configdrive creation is taken care by ironic-lib's
         # work_on_disk().
